@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KenPress
+- 👋 Hi, I’m @Kennedy Narh Ayertey
 - 👀 I’m interested in ... programming 
 - 🌱 I’m currently learning ... computer programming 
 - 💞️ I’m looking to collaborate on ... general 
